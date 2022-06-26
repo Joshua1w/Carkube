@@ -1,2 +1,2 @@
-# Carkube
-A website designed for selling cars in Nigeria
+# carkk
+ A website about selling cars.
